@@ -1,2 +1,1 @@
-- 👋 Hi, I’m Elias
-- 👀 I’m interested in electrical engineering and software development
+ee at eth zurich
